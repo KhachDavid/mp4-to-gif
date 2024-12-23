@@ -114,4 +114,10 @@ If the gif file is too large, you can reduce the fps or scale of the gif file. Y
 
 ## Conclusion
 
-This is a simple guide to convert a video to a gif file using ffmpeg. The gif file is optimized for size and quality. You can adjust the parameters to your liking. Good luck!
+For autoplaying gif's on a website, I would sugges to aim for less than 1 megabytes. This is a good size for a gif file, and ensures your website has a good loading time, making it feel snappy and responsive. If you have any questions, feel free to ask. Good luck!
+
+FFMPEG is a powerful tool that can do a lot of things. This is just one of the many things it can do. If you are interested in learning more about ffmpeg, I would recommend reading the documentation. It is very detailed and provides a lot of examples.
+
+## References
+
+- [ffmpeg documentation](https://ffmpeg.org/ffmpeg.html)
